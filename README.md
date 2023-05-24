@@ -13,3 +13,8 @@ The Brent-Kung adder incorporates parallel prefix networks within each block to 
 The output of the Brent-Kung adder is the sum of the two input numbers, produced at the output of the LSB stage. The carry-out from the most significant bit (MSB) stage indicates an overflow condition if it is set.
 
 Overall, the 32-bit Brent-Kung adder offers a high-speed addition operation by efficiently propagating carries through a tree-like structure. It is commonly used in digital arithmetic circuits and processors to perform fast arithmetic operations on 32-bit binary numbers.
+
+
+
+## brent-kung-adder Layout:
+![image](https://github.com/sasi-kiran123/brent-kung-adder/assets/75782906/c56a1cfe-0e45-4646-9e9d-d91789006992)
