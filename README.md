@@ -14,7 +14,11 @@ The output of the Brent-Kung adder is the sum of the two input numbers, produced
 
 Overall, the 32-bit Brent-Kung adder offers a high-speed addition operation by efficiently propagating carries through a tree-like structure. It is commonly used in digital arithmetic circuits and processors to perform fast arithmetic operations on 32-bit binary numbers.
 
+## Schematic:
+
+![image](https://github.com/sasi-kiran123/brent-kung-adder/assets/75782906/ac410899-cd00-4203-9116-6a53496898ed)
 
 
 ## brent-kung-adder Layout:
+
 ![image](https://github.com/sasi-kiran123/brent-kung-adder/assets/75782906/c56a1cfe-0e45-4646-9e9d-d91789006992)
